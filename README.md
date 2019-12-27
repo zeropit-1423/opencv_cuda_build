@@ -1,0 +1,1 @@
+Vsiual Studio 2019 + opencv 4.2.0 + CUDA10.0 + CUDNN 6.7.2 (cmake option only cudev build)
